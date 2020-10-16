@@ -23,3 +23,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Screenshots
 
 ![Home](https://github.com/gustavochagas/nlw-happy-web-app/blob/master/screenshots/home.png?raw=true)
+
+![Map View](https://github.com/gustavochagas/nlw-happy-web-app/blob/master/screenshots/map-view.png?raw=true)
+
+![Create Orphanage](https://github.com/gustavochagas/nlw-happy-web-app/blob/master/screenshots/create.gif?raw=true)
+
+![View Orphanage](https://github.com/gustavochagas/nlw-happy-web-app/blob/master/screenshots/one-orphanage.gif?raw=true)
+
