@@ -140,3 +140,12 @@ form.create-orphanage-form {
     }
   } 
 }
+
+@media (max-width: 1024px) {
+  #page-create-orphanage {
+    display: flex;
+    main {
+      padding-top: 5rem;
+    }
+  }
+}
